@@ -1,0 +1,21 @@
+.header {
+    padding: 32px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav__item {
+    cursor: pointer;
+    margin-right: 24px;
+    text-decoration: none;
+    color: #1d1d1f;
+    font-weight: bold;
+}
+
+.nav__item:nth-last-of-type(1) {
+    margin: 0;
+}

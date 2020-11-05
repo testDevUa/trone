@@ -1,0 +1,20 @@
+.posts {
+    padding: 48px 0;
+}
+
+.posts__input {
+    width: 570px;
+    padding: 20px;
+    min-height: 140px;
+    margin-top: 32px;
+}
+
+.posts__add {
+    display: block;
+    margin: 32px auto 0 auto;
+    outline: 0;
+    border: 0;
+    background-color: #1d1d1f;
+    color: #fff;
+    padding: 10px 16px;
+}

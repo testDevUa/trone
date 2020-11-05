@@ -1,0 +1,10 @@
+.post {
+    padding: 24px 0;
+    width: 1170px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.post:first-child {
+    padding-top: 0;
+}
